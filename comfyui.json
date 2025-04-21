@@ -1,0 +1,7 @@
+{
+  "name": "Resize Conditioning Node",
+  "author": "MaruPelkar",
+  "description": "Pads or trims every tensor in a CONDITIONING list so it has the target token length (default 1177 for Flux/SD‑3).",
+  "homepage": "https://github.com/MaruPelkar/comfyui-conditioning-resizer/",
+  "version": "0.1.0"
+}
