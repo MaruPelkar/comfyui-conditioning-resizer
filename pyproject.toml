@@ -1,0 +1,14 @@
+[project]
+name = "conditioning-resizer"
+description = "A custom node for ComfyUI that allows resizing of conditioning tensors, particularly useful for fixing size mismatches between CLIP Text Encode and CLIP Vision Encode outputs in SD3 workflows."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/MaruPelkar/comfyui-conditioning-resizer"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-conditioning-resizer"
+Icon = ""
